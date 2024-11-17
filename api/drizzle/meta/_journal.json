@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1730657744216,
+      "tag": "0000_curious_violations",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1730658255132,
+      "tag": "0001_breezy_caretaker",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1730922481169,
+      "tag": "0002_watery_bedlam",
+      "breakpoints": true
+    }
+  ]
+}
